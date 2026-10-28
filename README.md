@@ -1,4 +1,4 @@
-# Zomato Lite
+# Zomato Lite deployment setup
 
 A small full-stack restaurant review application built with Next.js 15, TypeScript, Neon PostgreSQL, and raw SQL.
 
